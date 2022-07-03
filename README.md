@@ -1,6 +1,6 @@
-<h5>
+<h5 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30em" height="30em"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30em" height="30em" />
 </h5>
 
 <!--
@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AhmadAlkhadra&style=flat-square&color=blue" alt=""/></div>
+<hr>
+
+:woman_technologist: About Me :
+<ul><li><div>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jordan.</div></li>
+<li><div> How to reach me : <div id="badges">
   <a href="https://www.linkedin.com/in/ahmadalkhadraa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -28,11 +34,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-</div>
-<img src="https://komarev.com/ghpvc/?username=AhmadAlkhadra&style=flat-square&color=blue" alt=""/>
-:woman_technologist: About Me :
-<div>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jordan.</div>
+</div> </div></li></ul>
 <br>
+<hr>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
